@@ -17,3 +17,10 @@ npm run api
 cd http
 npm start
 ```
+
+## How it works
+Type the url `localhost:5000` on the browser, write the informations into the input, press `Enter` and it's done.
+
+<p align="center">
+  <img width="80%" src="./assets/screen.png">
+</p>
