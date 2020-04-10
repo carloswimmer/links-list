@@ -11,6 +11,22 @@
     {
       "name": "Google",
       "url": "http://google.com"
+    },
+    {
+      "name": "Discord",
+      "url": "http://discord.com"
+    },
+    {
+      "name": "Npm",
+      "url": "http://npm.js.com"
+    },
+    {
+      "name": "GitHub",
+      "url": "http://github.com"
+    },
+    {
+      "name": "GitLab",
+      "url": "http://gitlab.com"
     }
   ]
 }
